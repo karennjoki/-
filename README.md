@@ -22,5 +22,4 @@ Semmelweis began collecting data at two maternity clinics, one that was staffed 
 midwives. Sammelweis suspected that a reason for the difference in mortality rate between the two clinics (as we will see below) is due to the simple act of 
 handwashing.
 
-![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img1.png)![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img2.png)
-![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img3.png)
+![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img1.png) ![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img3.png)
