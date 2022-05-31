@@ -7,7 +7,7 @@ To tacle this problem we need a system that detects if a transaction is fraudlen
 
 Below is an analysis using python that does this.I have used machine learning algorithms to help classify if a transaction is anbormal or not
 The dataset used is from Kaggle and cointain real bank transactions of different card holders.
-![](https://github.com/karennjoki/Portfolio/blob/main/images/credit%20card.jpg)
+                            ![](https://github.com/karennjoki/Portfolio/blob/main/images/credit%20card2.jpg))
 
 2. [**Ignaz-handwashing-analysis**](https://github.com/karennjoki/Ignaz-handwashing-analysis/blob/main/Ignaz%20Handwashing%20Project-checkpoint.ipynb)
 
