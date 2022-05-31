@@ -1,6 +1,6 @@
-                                                              ### PYTHON PROJECTS
+                                                              # PYTHON PROJECTS
                                                               
-1.**FRAUD_DETECTION**
+1.{**FRAUD_DETECTION**
 
 We are living in a digital world and transacting online using credit cards has become the norm and due to this we need stronger cyber security than ever before.
 To tacle this problem we need a system that detects if a transaction is fraudlent or not.
@@ -9,7 +9,7 @@ Below is an analysis using python that does this.I have used machine learning al
 The dataset used is from Kaggle and cointain real bank transactions of different card holders.
 
 
-2. **Ignaz-handwashing-analysis**
+2. [**Ignaz-handwashing-analysis**](https://github.com/karennjoki/Ignaz-handwashing-analysis/blob/main/Ignaz%20Handwashing%20Project-checkpoint.ipynb)
 3. 
 In the early 1800’s, many women passed away due to puerperal fever (commonly known as childbed fever) and Dr. Ignaz Semmelweis, an assistant professor at John Hopkins 
 School of Public Health, became interested in better understanding why this was the case.
