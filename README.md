@@ -11,7 +11,7 @@ To tacle this problem we need a system that detects if a transaction is fraudlen
 Below is an analysis using python that does this.I have used machine learning algorithms to help classify if a transaction is anbormal or not
 The dataset used is from Kaggle and cointain real bank transactions of different card holders.
                            
-</p>
+
 
 2. [**Ignaz-handwashing-analysis**](https://github.com/karennjoki/Ignaz-handwashing-analysis/blob/main/Ignaz%20Handwashing%20Project-checkpoint.ipynb)
 
@@ -21,3 +21,4 @@ School of Public Health, became interested in better understanding why this was 
 Semmelweis began collecting data at two maternity clinics, one that was staffed solely by male doctors and medical students, with the other clinic staffed by female
 midwives. Sammelweis suspected that a reason for the difference in mortality rate between the two clinics (as we will see below) is due to the simple act of 
 handwashing.
+![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img1.png) ![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img2.png)![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img3.png)
