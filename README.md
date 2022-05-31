@@ -1,10 +1,10 @@
                                                               # PYTHON PROJECTS
                                                               
 1. [**FRAUD_DETECTION**](https://github.com/karennjoki/FRAUD_DETECTION/blob/main/My%20project_fraud%20detection.ipynb)
-2. 
-                         <p align="center">
-  <img src="https://github.com/karennjoki/Portfolio/blob/main/images/credit%20card2.jpg" />
-</p>
+ 
+ <p align="center">
+ <img src="https://github.com/karennjoki/Portfolio/blob/main/images/credit%20card2.jpg" />
+ </p>
 We are living in a digital world and transacting online using credit cards has become the norm and due to this we need stronger cyber security than ever before.
 To tacle this problem we need a system that detects if a transaction is fraudlent or not.
 
