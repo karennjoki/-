@@ -10,7 +10,7 @@ The dataset used is from Kaggle and cointain real bank transactions of different
 
 
 2. [**Ignaz-handwashing-analysis**](https://github.com/karennjoki/Ignaz-handwashing-analysis/blob/main/Ignaz%20Handwashing%20Project-checkpoint.ipynb)
-3. 
+
 In the early 1800’s, many women passed away due to puerperal fever (commonly known as childbed fever) and Dr. Ignaz Semmelweis, an assistant professor at John Hopkins 
 School of Public Health, became interested in better understanding why this was the case.
 
