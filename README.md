@@ -30,4 +30,5 @@ handwashing.
 1.**BIG FASHION GROUP SALES ANALYSIS DASHBOARD**
 
 Below is a sales analysis of a fashion company according to products category, managers, states and countries
+
 ![](images/Big%20Fashion%20Sales%20Analysis%20Dashboard.PNG)
