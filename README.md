@@ -25,3 +25,9 @@ handwashing.
 
 ![](images/clinic%20img1.png) ![](images/clinic%20img3.png)
 
+# EXCEL PROJECTS
+
+1.**BIG FASHION GROUP SALES ANALYSIS DASHBOARD**
+
+Below is a sales analysis of a fashion company according to products category, managers, states and countries
+![](images/Big%20Fashion%20Sales%20Analysis%20Dashboard.PNG)
