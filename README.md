@@ -1,4 +1,4 @@
-   # PYTHON PROJECTS:
+# PYTHON PROJECTS:
                                                               
 1. [**Fraud Detection**](https://github.com/karennjoki/FRAUD_DETECTION/blob/main/My%20project_fraud%20detection.ipynb)
  
