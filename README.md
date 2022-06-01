@@ -1,4 +1,4 @@
-   # PYTHON PROJECTS
+   # PYTHON PROJECTS:
                                                               
 1. [**FRAUD_DETECTION**](https://github.com/karennjoki/FRAUD_DETECTION/blob/main/My%20project_fraud%20detection.ipynb)
  
@@ -25,7 +25,7 @@ handwashing.
 
 ![](images/clinic%20img1.png) ![](images/clinic%20img3.png)
 
-# EXCEL PROJECTS
+# EXCEL PROJECTS:
 
 1.**BIG FASHION GROUP SALES ANALYSIS DASHBOARD**
 
