@@ -24,4 +24,4 @@ midwives. Sammelweis suspected that a reason for the difference in mortality rat
 handwashing.
 
 ![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img1.png) ![](https://github.com/karennjoki/Portfolio/blob/main/images/clinic%20img3.png)
-ggggggg
+
