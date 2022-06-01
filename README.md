@@ -9,7 +9,7 @@ Below is an analysis using python that does this.I have used machine learning al
 The dataset used is from Kaggle and cointain real bank transactions of different card holders.
 
 <p align="center">
- <img src="https://github.com/karennjoki/Portfolio/blob/main/images/credit%20card2.jpg" />
+ <img src="images/credit%20card2.jpg" />
  </p>
                            
 
