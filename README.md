@@ -1,6 +1,8 @@
- <body style="background-color:grey;">
+ <body style="background-color:#EADDCA;">
     </body>
-<div style="background-image:url('https://images.unsplash.com/photo-1654207376596-6f21bf0bb15f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60');">
+    
+
+
 <p align="center">
     Portfolio
 </p>
